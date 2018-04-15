@@ -17,3 +17,25 @@
 * | 2d2c942 2rd master
 |/  
 * e63c75e 1st master
+
+
+yx1201
+*   671161b 5th commit on master
+|\  
+| *   3642d7b 3rd commit on branch1
+| |\  
+| * | a10c6fd 2nd commit on branch1
+* | |   582ce0f 4th commit on master
+|\ \ \  
+| |_|/  
+|/| |   
+| * | 0b18c01 1st commit on branch2
+* | |   e576d24 3rd commit on master
+|\ \ \  
+| |/ /  
+|/| /   
+| |/    
+| * fd04b11 1st commit on branch1
+* | 1b92e01 2nd commit on master
+|/  
+* e1bbdbc 1st commit on master
