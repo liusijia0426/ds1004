@@ -18,3 +18,23 @@ jh5695
 * | 5012f79 2 change on master
 |/  
 * af60b0d 1 change on master
+
+*   3ae2547 4th commit master
+|\
+| *   510ab90 3rd commit branch1
+| |\
+| * | 6d2e69e 2nd commit branch
+* | |   121a0fd 4th commit master
+|\ \ \
+| |_|/
+|/| |
+| * | 4244392 1st commit branch2
+* | |   64b1546 3rd commit master
+|\ \ \
+| |/ /
+|/| /
+| |/
+| * bb95465 1st branch1
+* | 2d2c942 2rd master
+|/
+* e63c75e 1st master
